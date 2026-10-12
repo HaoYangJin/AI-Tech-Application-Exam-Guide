@@ -1,6 +1,21 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: 456ef561f8c991fd2395f25a58e2525a_e8c98699c64d11f1a08152540064ee0f
+    ReservedCode1: qvUeOIz3nCrcSNHCNAIFb+LsjUo/LGL+QOoNsl9qyE77xQReSWhFxL43QyrB8ceWKhfULwm63p8VC+5+W6ak9aNhj7z4dykTXQ/33KPXZriJ58NGjRqOlocXbLE1fgfNcw50/bzzbh8N/NmyOjOjf7+prVm5HhihUrElGE1g84MP58w8okweixbZclw=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: 456ef561f8c991fd2395f25a58e2525a_e8c98699c64d11f1a08152540064ee0f
+    ReservedCode2: qvUeOIz3nCrcSNHCNAIFb+LsjUo/LGL+QOoNsl9qyE77xQReSWhFxL43QyrB8ceWKhfULwm63p8VC+5+W6ak9aNhj7z4dykTXQ/33KPXZriJ58NGjRqOlocXbLE1fgfNcw50/bzzbh8N/NmyOjOjf7+prVm5HhihUrElGE1g84MP58w8okweixbZclw=
+---
+
 # 人工智能技术及应用 · 二三级考纲知识点详解
 
-本仓库收录《人工智能技术及应用_二三级考纲知识点详解》PDF 文档，面向二三级考试的 AI 考纲知识体系整理，共 **100 页 / 17 章 + 2 个附录 + 80 条参考资料**。
+本仓库收录《人工智能技术及应用_二三级考纲知识点详解》PDF 文档，是面向**上信考**复习的备考资料。
+
+**上信考**即**上海市高等学校信息技术水平考试**（Shanghai College Information Technology Level Examination，SCITE，原上海市高等学校计算机等级考试），由上海市教育委员会领导、上海市教育考试院组织实施，面向本市全日制高校在籍本、专科学生和研究生，每年 10 月下旬至 11 月上旬举行。
+
+本资料针对上信考二三级科目 **「人工智能技术及应用」（代码 38，2025 年版考纲）** 进行考纲知识点梳理，共 **100 页 / 17 章 + 2 个附录 + 80 条参考资料**，按「考纲要求 → 原文选读 → 编者讲解 → 例题与解析 → 辨析与自测」结构组织，直击考点。
 
 ## 文档结构
 
@@ -40,4 +55,4 @@
 
 ## 许可证
 
-本仓库内容版权归原作者所有，仅用于学习交流。
+本仓库采用 [MIT License](./LICENSE) 开源许可。
