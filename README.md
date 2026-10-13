@@ -1,19 +1,10 @@
----
-AIGC:
-    Label: "1"
-    ContentProducer: 001191440300708461136T1XGW3
-    ProduceID: 456ef561f8c991fd2395f25a58e2525a_e8c98699c64d11f1a08152540064ee0f
-    ReservedCode1: qvUeOIz3nCrcSNHCNAIFb+LsjUo/LGL+QOoNsl9qyE77xQReSWhFxL43QyrB8ceWKhfULwm63p8VC+5+W6ak9aNhj7z4dykTXQ/33KPXZriJ58NGjRqOlocXbLE1fgfNcw50/bzzbh8N/NmyOjOjf7+prVm5HhihUrElGE1g84MP58w8okweixbZclw=
-    ContentPropagator: 001191440300708461136T1XGW3
-    PropagateID: 456ef561f8c991fd2395f25a58e2525a_e8c98699c64d11f1a08152540064ee0f
-    ReservedCode2: qvUeOIz3nCrcSNHCNAIFb+LsjUo/LGL+QOoNsl9qyE77xQReSWhFxL43QyrB8ceWKhfULwm63p8VC+5+W6ak9aNhj7z4dykTXQ/33KPXZriJ58NGjRqOlocXbLE1fgfNcw50/bzzbh8N/NmyOjOjf7+prVm5HhihUrElGE1g84MP58w8okweixbZclw=
----
-
 # 人工智能技术及应用 · 二三级考纲知识点详解
 
 依据**上海市高等学校信息技术水平考试《人工智能技术及应用（二三级）考试大纲（2025 年版）》**整理的中文复习资料，按「知识领域 → 知识单元 → 知识点」编排。
 
 **100 页 · 17 个知识领域 · 50 个知识单元 · 93 个知识点 · 80 条参考资料**
+
+> **AI 辅助编写（AIGC）**：本资料由生成式 AI 辅助整理与编写，引用来源见正文及参考资料索引。
 
 [在线阅读 PDF](./人工智能技术及应用_二三级考纲知识点详解.pdf) · [直接下载 PDF](https://github.com/HaoYangJin/AI-Tech-Application-Exam-Guide/raw/refs/heads/main/人工智能技术及应用_二三级考纲知识点详解.pdf) · [知识点与页码导航](./docs/OUTLINE.md) · [参考资料索引](./docs/SOURCES.md)
 
